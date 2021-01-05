@@ -1,0 +1,6 @@
+/output/
+/.idea/
+**/*.iml
+/supporting_materials/
+/resources/
+/lessons/.ipynb_checkpoints/
