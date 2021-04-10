@@ -7,14 +7,15 @@ The project deals with introduction to data analysis.
 - Lesson 3: The Data Analysis Process
 - Lesson 4: Data Analysis Process - Case Study 1, Wine quality
 - Lesson 5: Data Analysis Process - Case Study 2, Fuel economy
+- Project: Data Analysis - GDP and democracy index of countries
   
-The corresponding Jupyter notebooks created during the course are in the `lessons` folder. 
+The corresponding Jupyter notebooks created during the course are in the `lessons` and `project` folders. 
 
 
 ## Resources and supporting materials
 
 The project does not include resources (esp. CSV files) provided by Udacity for this course.
-It also does not include publicly available data sets cited and used in some of the Jupyter notebooks.      
+It also does not include publicly available data sets cited and used in some of the Jupyter notebooks.
 
 
 ## Used Python and Library Versions
