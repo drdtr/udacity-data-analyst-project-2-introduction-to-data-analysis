@@ -7,7 +7,7 @@ The project deals with introduction to data analysis.
 - Lesson 3: The Data Analysis Process
 - Lesson 4: Data Analysis Process - Case Study 1, Wine quality
 - Lesson 5: Data Analysis Process - Case Study 2, Fuel economy
-- Project: Data Analysis - GDP and democracy index of countries
+- Project: Data Analysis - GDP per capita and democracy index of countries
   
 The corresponding Jupyter notebooks created during the course are in the `lessons` and `project` folders. 
 

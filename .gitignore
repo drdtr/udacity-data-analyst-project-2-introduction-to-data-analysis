@@ -3,4 +3,5 @@
 **/*.iml
 /supporting_materials/
 /resources/
-/lessons/.ipynb_checkpoints/
+/**/.ipynb_checkpoints/
+/**/__pycache__/
